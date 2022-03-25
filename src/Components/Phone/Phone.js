@@ -5,8 +5,8 @@ const Phone = (props) => {
     const { image, name, price } = props.phone;
     return (
         <div className='phone'>
+            <img src={image} alt="" />
             <div className='phone-info'>
-                <img src={image} alt="" />
                 <h3>Name: {name}</h3>
                 <h4>Price: {price}</h4>
             </div>
