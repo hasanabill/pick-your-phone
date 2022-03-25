@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Shop from './Components/Shop/Shop';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <h1>Pick Your Phone</h1>
+      <Shop></Shop>
     </div>
   );
 }
