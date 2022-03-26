@@ -1,54 +1,54 @@
 [
     {
-        "id": "1",
-        "price": "1199",
+        "id": "623e06e6a981f9d9640ea052",
+        "price": "$2,212.38",
         "image": "https://i.ibb.co/xDszDSQ/apple-iphone-13-pro-max.jpg",
         "name": "iPhone 13 Pro Max"
     },
     {
-        "id": "2",
-        "price": "999",
+        "id": "623e06e63d393742082e658a",
+        "price": "$2,547.79",
         "image": "https://i.ibb.co/SK4psxL/apple-iphone-13-pro.jpg",
         "name": "iPhone 13 Pro"
     },
     {
-        "id": "3",
-        "price": "799",
+        "id": "623e06e69755b6815be7cf88",
+        "price": "$1,168.37",
         "image": "https://i.ibb.co/yNSgVXr/apple-iphone-13.jpg",
         "name": "iPhone 13"
     },
     {
-        "id": "4",
-        "price": "599",
+        "id": "623e06e6a703460c3f3761e0",
+        "price": "$2,633.56",
         "image": "https://i.ibb.co/HDK749L/apple-iphone-13-mini.jpg",
         "name": "iPhone 13 mini"
     },
     {
-        "id": "5",
-        "price": "800",
+        "id": "623e06e6bb242202cbbe730d",
+        "price": "$2,703.46",
         "image": "https://i.ibb.co/wWQ11By/apple-iphone-12-pro-max.jpg",
         "name": "iPhone 12 Pro Max"
     },
     {
-        "id": "6",
-        "price": "750",
+        "id": "623e06e6af294cec52873351",
+        "price": "$3,113.09",
         "image": "https://i.ibb.co/9WTXTVn/apple-iphone-12-pro.jpg",
         "name": "iPhone 12 Pro"
     },
     {
-        "id": "7",
-        "price": "650",
+        "id": "623e06e63ab3360408058e02",
+        "price": "$2,793.61",
         "image": "https://i.ibb.co/qnS5WhZ/apple-iphone-12.jpg",
         "name": "iPhone 12"
     },
     {
-        "id": "8",
-        "price": "550",
+        "id": "623e06e6f3632028a609031e",
+        "price": "600",
         "image": "https://i.ibb.co/m67YqJP/apple-iphone-12-mini.jpg",
         "name": "iPhone 12 mini"
     },
     {
-        "id": "9",
+        "id": "623e06e6f3632028a609031f",
         "price": "400",
         "image": "https://i.ibb.co/dcpwW1w/apple-iphone-se-2020.jpg",
         "name": "iPhone SE 2020"
