@@ -3,8 +3,8 @@ import Shop from './Components/Shop/Shop';
 
 function App() {
   return (
-    <div>
-      <h1>Pick Your Phone</h1>
+    <div className='App'>
+      <h1 className='head'>Pick Your <span>Phone</span></h1>
       <Shop></Shop>
     </div>
   );

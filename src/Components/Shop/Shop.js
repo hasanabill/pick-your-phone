@@ -43,7 +43,7 @@ const Shop = () => {
                     cart.map(phone => <Cart key={phone.id} cart={phone}></Cart>)
                 }
                 <button onClick={() => chooseRandom(cart)}>Choose 1</button> <br />
-                <button onClick={clearCart}>Clear selected</button>
+                <button onClick={clearCart}>Clear selection</button>
             </div>
         </div>
     );
