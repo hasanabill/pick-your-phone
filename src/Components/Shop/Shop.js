@@ -14,8 +14,13 @@ const Shop = () => {
     }, [])
 
     const addToCart = (selectedPhone) => {
-        const newCart = [...cart, selectedPhone]
-        setCart(newCart)
+        if (cart.length < 4) {
+            const newCart = [...cart, selectedPhone]
+            setCart(newCart)
+        }
+        else {
+            alert('you cannot add more than 4 items')
+        }
     }
 
     const chooseRandom = phone => {

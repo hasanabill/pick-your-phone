@@ -1,3 +1,6 @@
+# Pick Your Phone
+Check out This project online [Pick Your Phone](https://pick-your-phone-13.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

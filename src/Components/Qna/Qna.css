@@ -1,0 +1,10 @@
+.qna{
+    margin: 10px 10%;
+    align-self: center;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+.qna p{
+    font-size: 20px;
+}
