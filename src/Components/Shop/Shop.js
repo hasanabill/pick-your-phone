@@ -25,11 +25,13 @@ const Shop = () => {
 
     const chooseRandom = phone => {
         const phonesLength = phone.length;
-        const random = Math.floor(Math.random() * phonesLength)
-        const newCart = []
-        newCart.push(cart[random])
-        setCart([])
-        setCart(newCart)
+        if (phonesLength) {
+            const random = Math.floor(Math.random() * phonesLength)
+            const newCart = []
+            newCart.push(cart[random])
+            setCart([])
+            setCart(newCart)
+        }
     }
     const clearCart = () => {
         setCart([]);
